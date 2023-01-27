@@ -1,0 +1,19 @@
+.banner{
+background-color:lightseagreen;
+width:120%;
+height:50px;
+margin-bottom:25px;
+}
+
+.banner-text {
+    color: #000000;
+    font-size: 34px;
+    font-family: Fantasy;
+
+}
+
+.card-header{
+background-color:lightseagreen;
+}
+body{
+background-color:rgb(188 35 201 / 27%);}
